@@ -1,0 +1,1 @@
+# kintone_template_for_gameni
